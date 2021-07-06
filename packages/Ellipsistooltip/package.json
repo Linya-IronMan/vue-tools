@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/Linya-IronMan/vue-tools/issues"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.3"
   }
 }

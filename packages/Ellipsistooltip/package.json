@@ -1,6 +1,6 @@
 {
   "name": "@pylai/ellipsistooltip",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "文本内容超出父元素宽度的时候，出现...省略号并出现element-ui中的tooltip提示信息",
   "author": "chendingtao <chendingtao@fuzhi.ai>",
   "homepage": "https://github.com/Linya-IronMan/vue-tools#readme",

@@ -1,0 +1,11 @@
+{
+  "name": "@pylai/ellipsistooltip",
+  "version": "1.0.0",
+  "description": "文本内容在超出父元素宽度的时候自动出现省略号并出现Element中的tooltip提示",
+  "main": "index.js",
+  "scripts": {
+    "test": "vue serve ./src/index.vue"
+  },
+  "author": "pylai",
+  "license": "ISC"
+}
